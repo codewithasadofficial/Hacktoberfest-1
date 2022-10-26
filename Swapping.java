@@ -5,7 +5,7 @@ import java.util.*;
      {
          Scanner in =new Scanner (System.in);
          int a,b,c=0;
-         System.out.println (" Enter your number") ;
+         System.out.println (" Enter your digits by asad") ;
          a=in.nextInt ();
          b=in.nextInt ();
          c=a;
